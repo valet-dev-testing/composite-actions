@@ -1,3 +1,3 @@
 # composite-actions
 
-test
+Testing use of composite actions
