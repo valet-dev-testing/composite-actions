@@ -7,6 +7,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: foo
-        uses: action/composite-actions@v1
+        uses: valet-dev-testing/composite-actions@v1
         with:
           who-to-greet: 'Mona the Octocat'
